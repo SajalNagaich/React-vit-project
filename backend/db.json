@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "0cc5",
+      "username": "Rakesh mishra",
+      "useremail": "rakeshmishra5719@gmail.com",
+      "userpassword": "1234",
+      "userPhoneNo": "8860375735"
+    },
+    {
+      "id": "9b1d",
+      "username": "admin",
+      "useremail": "admin@gmail.com",
+      "userpassword": "admin123",
+      "userPhoneNo": "9999999999"
+    },
+    {
+      "id": "c35a",
+      "username": "Sajal Nagaich ",
+      "useremail": "sajal@gmail.com",
+      "userpassword": "6266",
+      "userPhoneNo": "6266700509"
+    },
+    {
+      "id": "ff14",
+      "username": "Ajay kumar",
+      "useremail": "ajju@gmail.com",
+      "userpassword": "0987",
+      "userPhoneNo": "745745872"
+    }
+  ]
+}
